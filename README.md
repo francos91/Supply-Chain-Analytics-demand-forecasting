@@ -139,6 +139,27 @@ For a quick look at the final policy and forecast, check the static images in th
 
 You, D.-G., Wang, C.-H., & Li, Y.-T. (2026). Data‑Driven Simulation‑Optimization for Sustainable (s, S) Inventory Policy Design Under Demand and Lead‑Time Uncertainty. *Sustainability*, 18(9), 4305.
 
+1. Ahmadi, E., Masel, D. T., Hostetler, S., Maihani, R., & Ghalehkhandabi, I. (2019). A centralized stochastic inventory control model for perishable products considering age-dependent purchase price and lead time. *TOP, 28*, 231-269.
+
+2. Arrow, K. J., Harris, T. E., & Marschak, J. (1951). Optimal inventory policy. *Econometrica, 19*(3), 250-272.
+
+3. Iglehart, D. L. (1963). Optimality of (s, S) policies in the finite-horizon dynamic inventory problem. *Management Science, 9*(2), 259-267.
+
+4. Makridakis, S., Spiliotis, E., & Assimakopoulos, V. (2018). Statistical and Machine Learning forecasting methods: Concerns and ways forward. *PLOS ONE, 13*(3), e0194889.
+
+5. Perera, S. C., & Sethi, S. P. (2022). A survey of stochastic inventory models with fixed costs: Optimality of (s,S) and (s,S)-type policies – Discrete-time case. *Production and Operations Management, 31*(1), 1-23.
+
+6. Scarf, H. (1960). The optimality of (s,S) policies in the dynamic inventory problem. In *Mathematical Methods in the Social Sciences* (pp. 196–202). Stanford University Press.
+
+7. Shakya, M., Lee, B.-S., & Ng, H. Y. (2022). A Deep Reinforcement Learning Approach for Inventory Control under Stochastic Lead Time and Demand. *arXiv preprint*.
+
+8. Tai, P. D., Huyen, P. P. N., & Buddhakulsomsiri, J. (2021). A novel modeling approach for a capacitated (S,T) inventory system with backlog under stochastic discrete demand and lead time. *International Journal of Industrial Engineering Computations, 12*(1), 1-14.
+
+9. Taylor, S. J., & Letham, B. (2018). Forecasting at scale. *The American Statistician, 72*(1), 37-45.
+
+10. You, D.-G., Wang, C.-H., & Li, Y.-T. (2026). Data-Driven Simulation-Optimization for Sustainable (s, S) Inventory Policy Design Under Demand and Lead-Time Uncertainty. *Sustainability, 18*(9), 4305.
+
+---
 ---
 
 ## 📝 License
