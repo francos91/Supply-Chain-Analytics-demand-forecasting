@@ -1,0 +1,9 @@
+{
+    "total_records": 421570,
+    "negative_sales_pct": 0.0,
+    "skus_analyzed": 3166,
+    "overall_cv_mean": 0.4612713456551524,
+    "overall_cv_median": 0.3070316629144739,
+    "holiday_multiplier_mean": 1.2291077972512916,
+    "holiday_multiplier_std": 4.637254105776321
+}
