@@ -1,4 +1,3 @@
-Here’s an updated README that matches your actual file structure and clearly explains the dashboard limitation on GitHub. I've also adjusted the file listing and instructions to reflect the correct script name and data placement.
 
 ---
 
